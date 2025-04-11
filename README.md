@@ -69,3 +69,8 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run app.py
 
+## 🚀 Live Demo
+
+Click below to try the app live on Streamlit Cloud:
+
+👉 [🌼 Iris Flower Classifier – Live Demo](https://iris-app-new1.streamlit.app/)
