@@ -3,6 +3,9 @@
 Welcome to the **Iris Flower Predictor App**!  
 This web app uses a Logistic Regression model to predict the species of an Iris flower based on user-provided measurements.
 
+![Iris Flower](iris_flower.jpg)
+
+---
 
 ## 🚀 Built With
 
@@ -17,12 +20,14 @@ This web app uses a Logistic Regression model to predict the species of an Iris 
 ## 📊 Dataset
 
 The app is trained using the classic **Iris Dataset**, which contains 150 rows and 4 features:
+
 - Sepal Length
 - Sepal Width
 - Petal Length
 - Petal Width
 
 Target species:
+
 - *Iris-setosa* 🌸  
 - *Iris-versicolor* 🌿  
 - *Iris-virginica* 🌺  
@@ -52,7 +57,22 @@ Target species:
 
 ## 💻 How to Run Locally
 
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/iris-flower-predictor.git
    cd iris-flower-predictor
+
+   
+
+🚀 Installation and Running the App
+
+# Clone the repo
+git clone https://github.com/your-username/iris-flower-classifier.git
+cd iris-flower-classifier
+
+# Install required packages
+pip install -r requirements.txt
+
+# Run the Streamlit app
+streamlit run app.py
+
