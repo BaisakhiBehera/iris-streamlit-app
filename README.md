@@ -56,19 +56,12 @@ Target species:
 ---
 
 ## 💻 How to Run Locally
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/iris-flower-predictor.git
-   cd iris-flower-predictor
-
    
-
 🚀 Installation and Running the App
 
 # Clone the repo
-git clone https://github.com/your-username/iris-flower-classifier.git
-cd iris-flower-classifier
+git clone https://github.com/BaisakhiBehera/iris-streamlit-app.git
+cd iris-streamlit-app
 
 # Install required packages
 pip install -r requirements.txt
